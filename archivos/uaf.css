@@ -1,0 +1,19 @@
+				@font-face {
+					font-family: 'cib-light';
+					src: url('/wp-content/uploads/useanyfont/9560CIB-light.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/9560CIB-light.woff') format('woff');
+					font-display: auto;
+				}
+
+				.cib-light{font-family: 'cib-light' !important;}
+
+						@font-face {
+					font-family: 'cib-bold';
+					src: url('/wp-content/uploads/useanyfont/7899CIB-bold.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/7899CIB-bold.woff') format('woff');
+					font-display: auto;
+				}
+
+				.cib-bold{font-family: 'cib-bold' !important;}
+
+		
